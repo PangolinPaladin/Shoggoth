@@ -1,0 +1,38 @@
+
+@import url(https://snargl.com/images/gale-kraken/gale-kraken-giant-octopus-is-standing.webp);
+
+body {
+    background: url("https://snargl.com/images/gale-kraken/gale-kraken-giant-octopus-is-standing.webp") repeat 0 0;
+}
+
+h1 {
+  list-style-type: none;
+  align-items: flex-center;
+  justify-content: center;
+  background-color: black;
+  color: rgb(21, 27, 110);
+  text-align: center;
+  font-family: arial, serif;
+  width: 1000px;
+  padding: 50px;
+  margin: 0px;
+}
+
+script {
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#answer {
+  background-color: rgb(40, 39, 39);
+  color: black;
+  font-family: Arial, serif;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+  align-items: center;
+}
